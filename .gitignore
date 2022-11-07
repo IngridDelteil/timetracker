@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# datas
+/src/data.js
+
 # production
 /build
 
